@@ -9,7 +9,7 @@ Resume Improvements Based on Review of Other Students:
 
 Job Applications:
 - L3Harris - Associate Software Engineer [https://careers.l3harris.com/en/job/salt-lake-city/associate-software-engineer-salt-lake-city-ut/4832/70089467600]
- - Reason for Good Match: It's an entry level job that I meet the minimum qualifications for.
+  - Reason for Good Match: It's an entry level job that I meet the minimum qualifications for.
  - Equivalent: Bachelor's Degree in Software Engineering
  - Improvements: Modeling tools for operating data
 - Northrop Grumman - Software Engineer [https://www.northropgrumman.com/jobs/Engineering/Software/United-States-of-America/Georgia/Warner-Robins/R10170479/software-engineer]
